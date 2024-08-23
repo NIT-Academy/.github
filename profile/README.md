@@ -22,9 +22,10 @@ We also encourage contributions to open-source projects, mentorship opportunitie
 ## 📂 Repositories
 
 Explore our repositories for projects in the following categories:
-- **[Project Name 1](#)**: A brief description of the project and its purpose.
-- **[Project Name 2](#)**: A brief description of the project and its purpose.
+- **[Learning Resources](https://github.com/NIT-Academy/learning-resources)**: A curated list of tutorials, articles, and videos across various technologies.This repository is aimed at helping developers, students, and professionals find learning materials to enhance their skills.
+<!-- - **[Project Name 2](#)**: A brief description of the project and its purpose.
 - **[Project Name 3](#)**: A brief description of the project and its purpose.
+-->
 
 Stay tuned for more repositories and projects that you can contribute to!
 
@@ -36,7 +37,7 @@ We welcome contributors of all skill levels! Here’s how you can get involved:
 3. Submit a pull request with a clear description of your changes.
 4. Join discussions on issues and help improve our projects.
   
-Please make sure to review our [contribution guidelines](#) before submitting any changes.
+Please make sure to review our [contribution guidelines](CONTRIBUTING.MD) before submitting any changes.
 
 ## 📢 Stay Connected
 
