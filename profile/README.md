@@ -37,7 +37,7 @@ We welcome contributors of all skill levels! Here’s how you can get involved:
 3. Submit a pull request with a clear description of your changes.
 4. Join discussions on issues and help improve our projects.
   
-Please make sure to review our [contribution guidelines](CONTRIBUTING.MD) before submitting any changes.
+Please make sure to review our [contribution guidelines](CONTRIBUTING.md) before submitting any changes.
 
 ## 📢 Stay Connected
 
